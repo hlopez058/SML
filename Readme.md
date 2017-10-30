@@ -11,6 +11,7 @@ Until then we are going to test, improve, debug and build out the dream by attem
 - Currently running with directX
 - Currently works/tested on Windows Only
 - Currently Keyboard/Mouse inputs not supported
+- Command line input of main.lua (drag and drop lua script into executable to run script)
 
 # Smelly Star Fighter App
 [v1.0]
