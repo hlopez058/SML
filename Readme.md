@@ -16,6 +16,3 @@ Until then we are going to test, improve, debug and build out the dream by attem
 # Smelly Star Fighter App
 [v1.0]
 - Testing animation and file inheritance
-
-![alt text](images\screenshot01.jpg "screenshot v1.0")
-
